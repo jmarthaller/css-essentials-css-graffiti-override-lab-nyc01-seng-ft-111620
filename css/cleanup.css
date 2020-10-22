@@ -6,12 +6,12 @@
 
 
 #wall .tag-2 {
-  padding: 30px;
+  display: none;
 }
 
 
 #wall .tag-3 {
-  width: 25%;
+  display: none;
 }
 
 
@@ -22,5 +22,5 @@
 
 
 .parent {
-  position: absolute;
+  display: none;
 }
