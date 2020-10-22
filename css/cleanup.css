@@ -19,3 +19,8 @@
 #parent .tag-4 {
   display: none;
 }
+
+
+.class {
+  position: absolute;
+}
